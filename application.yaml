@@ -20,4 +20,4 @@ spec:
 
     automated:
       selfHeal: true # Enable automatic self-healing [The ArgoCD override our changes which we created manually]
-      prune: true # If we delete a service for example add permission to ArgoCD to delete too
+      prune: true # If we delete a service for example add permission to
